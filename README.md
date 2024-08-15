@@ -3,7 +3,7 @@
 </div>
 
 > [!warning]
-> I am in no way affiliated with the authors of Vanilla OS or with any of the authors of the modules below. Use them with caution.
+> I am in no way affiliated with the authors of Vanilla OS or with any of the authors of the modules below except modules written by myself. Use them with caution.
 
 # Drivers
 
