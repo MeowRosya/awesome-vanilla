@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 32px; border: none; line-height: 0; font-weight: bold">Vanilla OS 2 Orchid modules</h1>
+  <h1 style="font-size: 32px; border: none; line-height: 0; font-weight: bold">Orchid modules</h1>
 </div>
 
 > [!warning]
